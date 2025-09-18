@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+.env
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# WordPress / PHP
+vendor/
+wp-content/uploads/
+wp-config.php
+
+# General
+*.log
+secrets.txt
+*.sqlite
